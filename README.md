@@ -12,10 +12,10 @@ The source images can be obtained from almost any running application, provided 
 
 # How does it work
 - Select the source application
-To tell the software where to obtain the source images from, click on the checkbox next to Find Window and move the mouse over the image in your applicatio of choice. *Don't click the window* but press space to remove the tickbox. This will tell the software the window you want to capture. 
+  - To tell the software where to obtain the source images from, click on the checkbox next to Find Window and move the mouse over the image in your applicatio of choice. *Don't click the window* but press space to remove the tickbox. This will tell the software the window you want to capture. 
 - Choose the image colour
-Choose a colour to match the colour of the image being used. You can only use Green, Red or Blue at the moment. 
+  - Choose a colour to match the colour of the image being used. You can only use Green, Red or Blue at the moment. 
 - Capture the images 
-Press capture to obtain the first image. In your software application, move the image onto a new view and press Capture in the second window. Now you have two images, you can composite them. This will generate a max projection of these two frames, with the resulting image consisting of the maximal pixels from each image. Once you're happy, you can move the composite to the first image holder by choosing "Copy to Image 1". Once you have another good position, click on Capture in the second window and generate a new composite. Continue until finished!
+  - Press capture to obtain the first image. In your software application, move the image onto a new view and press Capture in the second window. Now you have two images, you can composite them. This will generate a max projection of these two frames, with the resulting image consisting of the maximal pixels from each image. Once you're happy, you can move the composite to the first image holder by choosing "Copy to Image 1". Once you have another good position, click on Capture in the second window and generate a new composite. Continue until finished!
 - Nudge if required 
-You can move the image slightly if it is noticably shifted in either X or Y. You should only really use this if it is clear that you can align the images accurately (e.g. if there the same structure is visible on both images and you can align them properly. 
+  - You can move the image slightly if it is noticably shifted in either X or Y. You should only really use this if it is clear that you can align the images accurately (e.g. if there the same structure is visible on both images and you can align them properly. 
